@@ -1,5 +1,5 @@
 function downloadCV() {
-    window.location.href = 'portfolio/Resume.pdf';
+    window.location.href = '/portfolio/Resume.pdf';
 }
 $(document).ready(function(){
     $(window).scroll(function(){
